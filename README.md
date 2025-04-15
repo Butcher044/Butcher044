@@ -29,7 +29,7 @@
   
 
   #### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=py,java,js,spring,react,kafka,redis" alt="Languages & Frameworks" />
+<img src="https://skillicons.dev/icons?i=py,java,js,spring,ts,react,kafka,redis" alt="Languages & Frameworks" />
   
   #### Frontend & Design
   <img src="https://skillicons.dev/icons?i=html,css,figma" alt="Frontend & Design" />
